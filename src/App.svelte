@@ -61,6 +61,7 @@
     <div
       class="border-4 border-dashed max-w-sm p-4 rounded-lg space-y-2 {`border-${color}-${shade}`}"
     >
+
       <p class:text-pink-100={$dark} class:text-pink-900={!$dark}>
         This next button demonstrates the use of
         <span class="highlight">@apply</span>

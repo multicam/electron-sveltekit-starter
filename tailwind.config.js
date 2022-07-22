@@ -6,6 +6,8 @@ module.exports = {
         content: [
             './src/**/*.html',
             './src/**/*.svelte',
+            './src/**/*.scss',
+            './src/**/*.css',
         ],
         options: {
             safelist: [
